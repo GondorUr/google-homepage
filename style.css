@@ -1,0 +1,18 @@
+.googleLogo {
+    margin: 10% auto 0 43%;
+}
+.searchBarArea {
+    text-align: center;
+    border: 20px solid rgb(87, 83, 83)(158, 155, 155);
+    border-radius: 5px;
+}
+#googleIcon{
+    padding-top: 20px;
+}
+#googleSearch{
+    width: 25%;
+    border: 0px;
+    outline: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
